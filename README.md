@@ -1,5 +1,5 @@
 # DLWHackathon - DentalAnywhere
-This is the project submission for Team Incredibear to MLDA-EEE Deep Learning Week 2021 Hackathon
+This is the project submission for Team Incredibear to MLDA-EEE Deep Learning Week 2021 Hackathon  
 Team members:
 1. Kai Yang
 2. Yee Hong
