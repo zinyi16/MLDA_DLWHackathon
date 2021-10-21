@@ -1,5 +1,6 @@
 # DLWHackathon - DentalAnywhere
 This is the project submission for Team Incredibear to MLDA-EEE Deep Learning Week 2021 Hackathon  
+
 Team members:
 1. Kai Yang
 2. Yee Hong
@@ -15,10 +16,11 @@ DentalAnywhere is an image recognition sytem which is able to identify oral cond
 The objective of this project is to create a multi-class image classification model to predict the oral condition based on the image input by users.
 
 ### What's Next for DentalAnywhere
-With the current dataset, our model has obtained a training accuracy of about 60%.
 
-Possible improvement to increase model performance:
-- Use larger dataset with images which display the distinguishable freatures of each oral condition
-- Data augmentation to generate more training data
+Possible improvements of model performance:
+- Use larger dataset which better potrays the distinguishable features of each oral condition
+- Data augmentation to generate more training data to reduce overfitting
+- Pre-trained model which is trained on more relevant task might be more useful
+- Further hyperparameter tuning (e.g. learning rate, number of epochs, batch size etc) of the CNN model
 
-The improved model can then be deployed to a web to perform the prediction of user's oral condition. 
+The improved model can later be deployed to a web to perform the prediction of user's oral condition. 
